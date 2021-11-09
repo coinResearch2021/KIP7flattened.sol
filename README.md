@@ -1,0 +1,1 @@
+# KIP7flattened.sol
